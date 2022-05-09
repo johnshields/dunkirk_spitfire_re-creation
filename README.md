@@ -22,5 +22,5 @@ alt="GSA Logo" width="600" height="250"/>
 
 ![dunkirk_og](https://user-images.githubusercontent.com/26766163/161574474-d8f2360e-a9d6-4897-a482-2664f19bbc4a.png)
 
-![dunkirk_recreation](https://user-images.githubusercontent.com/26766163/167319197-c3f908c2-b8bf-4f0b-8098-ec2fa3d3f729.jpg)
+![dunkirk_recreation](https://user-images.githubusercontent.com/26766163/167432704-22629ef8-8ad6-4b2a-80d1-af5614dfa0a4.jpg)
 
