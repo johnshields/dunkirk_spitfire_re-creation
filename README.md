@@ -8,7 +8,7 @@ alt="GSA Logo" width="600" height="250"/>
 ***
 
 # Project Details
-| **Project Title** | Dunkirk Spitfire Recreation|
+| **Project Title** | Dunkirk Spitfire Re-creation|
 | :------------- |:-------------|
 | **Course**              | MSc Serious Games and Virtual Reality |
 | **Module**              | Advanced 3D Modelling |
@@ -18,7 +18,7 @@ alt="GSA Logo" width="600" height="250"/>
 
 ***
 
-# Dunkirk Spitfire Recreation
+# Dunkirk Spitfire Re-creation
 
 ![dunkirk_og](https://user-images.githubusercontent.com/26766163/161574474-d8f2360e-a9d6-4897-a482-2664f19bbc4a.png)
 
