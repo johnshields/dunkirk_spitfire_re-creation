@@ -13,7 +13,7 @@ alt="GSA Logo" width="600" height="250"/>
 | **Course**              | MSc Serious Games and Virtual Reality |
 | **Module**              | Advanced 3D Modelling |
 | **University**           | [The Glasgow School of Art (SimVis)](https://www.gsa.ac.uk/research/research-units/school-of-simulation-and-visualisation/) |
-| **Students**             | John |
+| **Students**             | John Shields |
 | **Module Lecturer**      | Michael Marriott |
 
 ***
@@ -22,5 +22,9 @@ alt="GSA Logo" width="600" height="250"/>
 
 ![dunkirk_og](https://user-images.githubusercontent.com/26766163/161574474-d8f2360e-a9d6-4897-a482-2664f19bbc4a.png)
 
-![dunkirk_recreation](https://user-images.githubusercontent.com/26766163/167432704-22629ef8-8ad6-4b2a-80d1-af5614dfa0a4.jpg)
+[![dunkirk_recreation](https://user-images.githubusercontent.com/26766163/167432704-22629ef8-8ad6-4b2a-80d1-af5614dfa0a4.jpg)](https://www.youtube.com/watch?v=_H6cslUW0kc)
+
+[Full Animation Video](https://www.youtube.com/watch?v=_H6cslUW0kc) 
+
+***
 
