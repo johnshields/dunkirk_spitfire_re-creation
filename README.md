@@ -15,17 +15,18 @@ alt="GSA Logo" width="600" height="250"/>
 | **University**           | [The Glasgow School of Art (SimVis)](https://www.gsa.ac.uk/research/research-units/school-of-simulation-and-visualisation/) |
 | **Students**             | John Shields |
 | **Module Lecturer**      | Michael Marriott |
+| **Grade Achieved**      | B |
 
 ***
 
 # Dunkirk Spitfire Re-creation
 
-![dunkirk_og](https://user-images.githubusercontent.com/26766163/161574474-d8f2360e-a9d6-4897-a482-2664f19bbc4a.png)
+### [Full VFX Video](https://www.youtube.com/watch?v=_H6cslUW0kc) 
 
 <img src="https://user-images.githubusercontent.com/26766163/167877767-969fbe54-621b-43a0-817c-a2a6e6d3dd3f.gif"
 alt="GSA Logo" width="1020" height="550"/>
 
-[Full Animation Video](https://www.youtube.com/watch?v=_H6cslUW0kc) 
+![dunkirk_og](https://user-images.githubusercontent.com/26766163/161574474-d8f2360e-a9d6-4897-a482-2664f19bbc4a.png)
 
 ***
 
